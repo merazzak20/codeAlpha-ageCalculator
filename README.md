@@ -5,20 +5,6 @@ This application allows users to enter their date of birth and instantly calcula
 
 ---
 
-## 📖 Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Demo](#demo)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
 ## 🚀 Introduction
 
 The Age Calculator is a beginner-friendly project designed to practice **date handling in JavaScript** and **responsive web design**.  
